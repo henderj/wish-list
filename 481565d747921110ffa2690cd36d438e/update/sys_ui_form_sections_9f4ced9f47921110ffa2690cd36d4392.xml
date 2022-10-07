@@ -14,34 +14,6 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2022-10-07 22:28:55</sys_updated_on>
         </sys_ui_form_section>
-        <sys_ui_form_section action="INSERT_OR_UPDATE">
-            <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-10-07 22:29:26</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>fe6c61df47921110ffa2690cd36d4395</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_overrides/>
-            <sys_ui_form display_value="x_907137_wish_list_wish_item" name="x_907137_wish_list_wish_item" sys_domain="global" view="b83604b521120110a866589604c20d8b">9f4ced9f47921110ffa2690cd36d4392</sys_ui_form>
-            <sys_ui_section caption="New Section" display_value="New Section" name="x_907137_wish_list_wish_item" sys_domain="global" view="b83604b521120110a866589604c20d8b">7e6c61df47921110ffa2690cd36d4393</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-10-07 22:29:26</sys_updated_on>
-        </sys_ui_form_section>
-        <sys_ui_form_section action="INSERT_OR_UPDATE">
-            <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-10-07 22:29:26</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>be6c61df47921110ffa2690cd36d43d7</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_overrides/>
-            <sys_ui_form display_value="x_907137_wish_list_wish_item" name="x_907137_wish_list_wish_item" sys_domain="global" view="b83604b521120110a866589604c20d8b">9f4ced9f47921110ffa2690cd36d4392</sys_ui_form>
-            <sys_ui_section caption="New Section" display_value="New Section" name="x_907137_wish_list_wish_item" sys_domain="global" view="b83604b521120110a866589604c20d8b">f66c61df47921110ffa2690cd36d4394</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-10-07 22:29:26</sys_updated_on>
-        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_907137_wish_list_wish_item</name>
             <roles/>
