@@ -4,13 +4,13 @@
             <element>display_name</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-10-07 22:19:00</sys_created_on>
-            <sys_id>020a611f47921110ffa2690cd36d43cc</sys_id>
+            <sys_created_on>2022-10-07 22:28:40</sys_created_on>
+            <sys_id>a73cad9f47921110ffa2690cd36d439e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_907137_wish_list_wish_item" sys_domain="global" view="Default view">474965db47921110ffa2690cd36d4336</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-10-07 22:19:00</sys_updated_on>
+            <sys_updated_on>2022-10-07 22:28:40</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,27 @@
             <element>item</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-10-07 22:19:00</sys_created_on>
-            <sys_id>820a611f47921110ffa2690cd36d43cc</sys_id>
+            <sys_created_on>2022-10-07 22:28:40</sys_created_on>
+            <sys_id>2b3cad9f47921110ffa2690cd36d439e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_907137_wish_list_wish_item" sys_domain="global" view="Default view">474965db47921110ffa2690cd36d4336</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-10-07 22:19:00</sys_updated_on>
+            <sys_updated_on>2022-10-07 22:28:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>url</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-07 22:28:40</sys_created_on>
+            <sys_id>ab3cad9f47921110ffa2690cd36d439e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_907137_wish_list_wish_item" sys_domain="global" view="Default view">474965db47921110ffa2690cd36d4336</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-07 22:28:40</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
